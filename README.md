@@ -1,5 +1,6 @@
 # Challenge_apple
 Challenge da etapa 5 
+Mateus Zavagli, Engenharia da Computação, Semestre 2
 
 Este código consiste na gamplay de uma Academia Mágica. 
 O sistema começa solicitando o nome do usuário e após a entrada do nome, aparece a opção de selecionar um idioma: 1. para português e 2. para inglês. Ao selecionar um idioma, a gameplay começa com um menu com quatro opções/ abas: 1 - Aprender Feitiços, 2 - Combinar Elementos, 3 - Livro de Feitiços e 0 - para encerrar a gameplay.
