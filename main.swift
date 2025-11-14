@@ -11,7 +11,7 @@ enum Idioma {
     case pt, en
 }
 var idioma: Idioma = .pt
-func T(_ pt: String, _ en: String) -> String { //Função T para atualizar o idioma nos prints - todo print (que tiver opção para dois idiomas) terá o formato: print("(T("")")
+func T(_ pt: String, _ en: String) -> String { //Função T para atualizar o idioma nos prints - todo print (que tiver opção para dois idiomas) terá o formato: print((T(""))
     idioma == .pt ? pt : en
 }
 
